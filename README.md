@@ -5,4 +5,4 @@ Missing Value;\
 Atributos desnecessários;\
 Balanceamento;\
 Transaformação dos tipos dos atributos;\
-Testes de diferentes modelos;\
+Testes de diferentes modelos;
